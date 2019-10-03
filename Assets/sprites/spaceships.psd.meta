@@ -1,0 +1,1691 @@
+fileFormatVersion: 2
+guid: 8d18f6d2b73e89b4882fbf3bb5aedb4b
+timeCreated: 1484926429
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceships_0
+    21300002: spaceships_1
+    21300004: spaceships_2
+    21300006: spaceships_3
+    21300008: spaceships_4
+    21300010: spaceships_5
+    21300012: spaceships_6
+    21300014: spaceships_7
+    21300016: spaceships_8
+    21300018: spaceships_9
+    21300020: spaceships_10
+    21300022: spaceships_11
+    21300024: spaceships_12
+    21300026: spaceships_13
+    21300028: spaceships_14
+    21300030: spaceships_15
+    21300032: spaceships_16
+    21300034: spaceships_17
+    21300036: spaceships_18
+    21300038: spaceships_19
+    21300040: spaceships_20
+    21300042: spaceships_21
+    21300044: spaceships_22
+    21300046: spaceships_23
+    21300048: spaceships_24
+    21300050: spaceships_25
+    21300052: spaceships_26
+    21300054: spaceships_27
+    21300056: spaceships_28
+    21300058: spaceships_29
+    21300060: spaceships_30
+    21300062: spaceships_31
+    21300064: spaceships_32
+    21300066: spaceships_33
+    21300068: spaceships_34
+    21300070: spaceships_35
+    21300072: spaceships_36
+    21300074: spaceships_37
+    21300076: spaceships_38
+    21300078: spaceships_39
+    21300080: spaceships_40
+    21300082: spaceships_41
+    21300084: spaceships_42
+    21300086: spaceships_43
+    21300088: spaceships_44
+    21300090: spaceships_45
+    21300092: spaceships_46
+    21300094: spaceships_47
+    21300096: spaceships_48
+    21300098: spaceships_49
+    21300100: spaceships_50
+    21300102: spaceships_51
+    21300104: spaceships_52
+    21300106: spaceships_53
+    21300108: spaceships_54
+    21300110: spaceships_55
+    21300112: spaceships_56
+    21300114: spaceships_57
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceships_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 12}
+        - {x: -3, y: 12}
+        - {x: -15, y: 4}
+        - {x: -15, y: -18}
+        - {x: -9, y: -19}
+        - {x: 8, y: -19}
+        - {x: 11, y: -17}
+        - {x: 16, y: -12}
+        - {x: 16, y: 2}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 9}
+        - {x: 5, y: 15}
+        - {x: -10, y: 15}
+        - {x: -16, y: 11}
+        - {x: -16, y: -19}
+        - {x: 9, y: -19}
+        - {x: 16, y: -11}
+        - {x: 16, y: 3}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 18}
+        - {x: -7, y: 15}
+        - {x: -16, y: 4}
+        - {x: -16, y: -13}
+        - {x: -11, y: -19}
+        - {x: 8, y: -19}
+        - {x: 16, y: -13}
+        - {x: 16, y: 10}
+        - {x: 4, y: 18}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 10}
+        - {x: 5, y: 6}
+        - {x: 4, y: 4}
+        - {x: 5, y: 4}
+        - {x: 4, y: 5}
+        - {x: 6, y: 8}
+        - {x: 6, y: 12}
+        - {x: 4, y: 17}
+        - {x: 2, y: 19}
+        - {x: -9, y: 19}
+        - {x: -14, y: 14}
+        - {x: -15, y: 11}
+        - {x: -15, y: -16}
+        - {x: -8, y: -19}
+        - {x: 12, y: -19}
+        - {x: 16, y: -13}
+        - {x: 16, y: -2}
+        - {x: 15, y: 6}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 19}
+        - {x: -7, y: 19}
+        - {x: -14, y: 14}
+        - {x: -15, y: 6}
+        - {x: -15, y: -14}
+        - {x: -9, y: -19}
+        - {x: 8, y: -19}
+        - {x: 16, y: -13}
+        - {x: 16, y: 1}
+        - {x: 11, y: 14}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 8}
+        - {x: 3, y: 14}
+        - {x: -6, y: 14}
+        - {x: -15, y: 1}
+        - {x: -15, y: -18}
+        - {x: -8, y: -19}
+        - {x: 10, y: -19}
+        - {x: 16, y: -13}
+        - {x: 16, y: -6}
+        - {x: 14, y: 2}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 20}
+        - {x: -15, y: 17}
+        - {x: -15, y: 0}
+        - {x: -4, y: -20}
+        - {x: 3, y: -20}
+        - {x: 15, y: -4}
+        - {x: 15, y: 17}
+        - {x: 14, y: 20}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 20}
+        - {x: 6, y: 17}
+        - {x: 6, y: 16}
+        - {x: 6, y: 20}
+        - {x: -15, y: 20}
+        - {x: -15, y: 0}
+        - {x: -4, y: -20}
+        - {x: 3, y: -20}
+        - {x: 15, y: -5}
+        - {x: 15, y: 16}
+        - {x: 14, y: 20}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 20}
+        - {x: -15, y: -7}
+        - {x: -14, y: -12}
+        - {x: -6, y: -20}
+        - {x: 3, y: -20}
+        - {x: 15, y: -14}
+        - {x: 15, y: 20}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 20}
+        - {x: -15, y: 12}
+        - {x: -15, y: 4}
+        - {x: -10, y: -10}
+        - {x: -2, y: -20}
+        - {x: 3, y: -20}
+        - {x: 15, y: 0}
+        - {x: 15, y: 10}
+        - {x: 11, y: 20}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 19}
+        - {x: -15, y: -4}
+        - {x: -6, y: -20}
+        - {x: 2, y: -20}
+        - {x: 13, y: -12}
+        - {x: 15, y: -1}
+        - {x: 15, y: 20}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 20}
+        - {x: -6, y: 10}
+        - {x: -6, y: 17}
+        - {x: -8, y: 19}
+        - {x: -10, y: 20}
+        - {x: -13, y: 20}
+        - {x: -15, y: 14}
+        - {x: -15, y: -2}
+        - {x: -13, y: -12}
+        - {x: -2, y: -20}
+        - {x: 6, y: -20}
+        - {x: 15, y: 0}
+        - {x: 15, y: 20}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: 7}
+        - {x: 17, y: 14}
+        - {x: 14, y: 18}
+        - {x: 7, y: 19}
+        - {x: -7, y: 19}
+        - {x: -13, y: 17}
+        - {x: -18, y: 14}
+        - {x: -19, y: 7}
+        - {x: -19, y: -11}
+        - {x: -18, y: -14}
+        - {x: -11, y: -19}
+        - {x: 8, y: -19}
+        - {x: 13, y: -17}
+        - {x: 17, y: -13}
+        - {x: 19, y: -8}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 19}
+        - {x: -12, y: 19}
+        - {x: -18, y: 17}
+        - {x: -19, y: 13}
+        - {x: -19, y: -12}
+        - {x: -17, y: -18}
+        - {x: -13, y: -19}
+        - {x: 11, y: -19}
+        - {x: 18, y: -17}
+        - {x: 19, y: -11}
+        - {x: 19, y: 11}
+        - {x: 17, y: 18}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 17}
+        - {x: -14, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: -13}
+        - {x: -13, y: -17}
+        - {x: 13, y: -17}
+        - {x: 17, y: -13}
+        - {x: 17, y: 13}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 17}
+        - {x: -13, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -14}
+        - {x: -13, y: -17}
+        - {x: 14, y: -17}
+        - {x: 17, y: -15}
+        - {x: 17, y: 13}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 17}
+        - {x: -13, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: -12}
+        - {x: -15, y: -16}
+        - {x: -13, y: -17}
+        - {x: 14, y: -17}
+        - {x: 17, y: -14}
+        - {x: 17, y: 15}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 19}
+        - {x: -4, y: 19}
+        - {x: -17, y: 16}
+        - {x: -19, y: 9}
+        - {x: -19, y: -4}
+        - {x: -16, y: -17}
+        - {x: -10, y: -19}
+        - {x: 4, y: -19}
+        - {x: 17, y: -16}
+        - {x: 19, y: -9}
+        - {x: 19, y: 4}
+        - {x: 16, y: 17}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -15, y: 16}
+        - {x: -19, y: 11}
+        - {x: -19, y: -8}
+        - {x: -18, y: -16}
+        - {x: -14, y: -20}
+        - {x: 15, y: -20}
+        - {x: 19, y: -17}
+        - {x: 19, y: 12}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: 17}
+        - {x: -20, y: 16}
+        - {x: -20, y: -9}
+        - {x: -19, y: -17}
+        - {x: -15, y: -20}
+        - {x: 17, y: -20}
+        - {x: 20, y: -15}
+        - {x: 20, y: 13}
+        - {x: 16, y: 17}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: 19}
+        - {x: -20, y: 19}
+        - {x: -20, y: -10}
+        - {x: -18, y: -16}
+        - {x: -14, y: -20}
+        - {x: 15, y: -20}
+        - {x: 20, y: -18}
+        - {x: 20, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 19}
+        - {x: -20, y: -18}
+        - {x: -16, y: -20}
+        - {x: 16, y: -20}
+        - {x: 20, y: -19}
+        - {x: 20, y: 19}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 19}
+        - {x: -20, y: -10}
+        - {x: -17, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 19}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: 16}
+        - {x: -19, y: -17}
+        - {x: -17, y: -20}
+        - {x: 19, y: -20}
+        - {x: 19, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 14}
+        - {x: -11, y: -14}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -13}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -13}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 14}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 16}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 419
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 10}
+        - {x: -8, y: 9}
+        - {x: -8, y: -17}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 8, y: -16}
+        - {x: 8, y: 8}
+        - {x: 5, y: 10}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 379
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 9}
+        - {x: 4, y: 13}
+        - {x: -5, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -17}
+        - {x: -5, y: -18}
+        - {x: 6, y: -18}
+        - {x: 8, y: -14}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 339
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 17}
+        - {x: -8, y: 15}
+        - {x: -8, y: -17}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 17}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 299
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 19}
+        - {x: -8, y: -18}
+        - {x: 8, y: -18}
+        - {x: 8, y: 19}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 17}
+        - {x: 2, y: 20}
+        - {x: -2, y: 20}
+        - {x: -6, y: 10}
+        - {x: -8, y: 4}
+        - {x: -8, y: -14}
+        - {x: -6, y: -18}
+        - {x: 4, y: -18}
+        - {x: 8, y: -13}
+        - {x: 8, y: -8}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 13}
+        - {x: -2, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -17}
+        - {x: -3, y: -18}
+        - {x: 6, y: -18}
+        - {x: 8, y: -15}
+        - {x: 8, y: 0}
+        - {x: 7, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 39, y: 9}
+        - {x: 39, y: 31}
+        - {x: 38, y: 33}
+        - {x: 20, y: 33}
+        - {x: 15, y: 23}
+        - {x: 4, y: 29}
+        - {x: -3, y: 28}
+        - {x: -10, y: 23}
+        - {x: -24, y: 33}
+        - {x: -36, y: 33}
+        - {x: -39, y: 30}
+        - {x: -39, y: 4}
+        - {x: -23, y: -19}
+        - {x: -10, y: -35}
+        - {x: -3, y: -36}
+        - {x: 6, y: -36}
+        - {x: 9, y: -33}
+        - {x: 20, y: -23}
+        - {x: 38, y: 1}
+      - - {x: -6, y: 14}
+        - {x: -10, y: 14}
+        - {x: -4, y: 11}
+        - {x: -3, y: 12}
+      - - {x: 4, y: 11}
+        - {x: 10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 12}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 40, y: 21}
+        - {x: 40, y: 34}
+        - {x: 36, y: 36}
+        - {x: 23, y: 36}
+        - {x: 15, y: 23}
+        - {x: 6, y: 28}
+        - {x: -4, y: 29}
+        - {x: -7, y: 26}
+        - {x: -21, y: 28}
+        - {x: -20, y: 33}
+        - {x: -24, y: 36}
+        - {x: -37, y: 36}
+        - {x: -39, y: 35}
+        - {x: -39, y: 3}
+        - {x: -23, y: -19}
+        - {x: -10, y: -35}
+        - {x: -3, y: -36}
+        - {x: 6, y: -36}
+        - {x: 20, y: -23}
+        - {x: 38, y: 1}
+        - {x: 39, y: 9}
+      - - {x: -6, y: 14}
+        - {x: -10, y: 14}
+        - {x: -4, y: 11}
+        - {x: -3, y: 12}
+      - - {x: 4, y: 11}
+        - {x: 10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 12}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 40, y: 27}
+        - {x: 40, y: 35}
+        - {x: 37, y: 39}
+        - {x: 25, y: 39}
+        - {x: 21, y: 37}
+        - {x: 17, y: 25}
+        - {x: 12, y: 23}
+        - {x: 7, y: 27}
+        - {x: -4, y: 29}
+        - {x: -7, y: 26}
+        - {x: -21, y: 28}
+        - {x: -20, y: 36}
+        - {x: -24, y: 39}
+        - {x: -36, y: 39}
+        - {x: -40, y: 36}
+        - {x: -40, y: 3}
+        - {x: -10, y: -35}
+        - {x: -6, y: -36}
+        - {x: 6, y: -36}
+        - {x: 20, y: -23}
+        - {x: 38, y: 1}
+        - {x: 39, y: 9}
+      - - {x: -6, y: 14}
+        - {x: -10, y: 14}
+        - {x: -4, y: 11}
+        - {x: -3, y: 12}
+      - - {x: 4, y: 11}
+        - {x: 10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 12}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 39, y: 35}
+        - {x: 35, y: 40}
+        - {x: 26, y: 40}
+        - {x: 21, y: 34}
+        - {x: 17, y: 25}
+        - {x: 6, y: 28}
+        - {x: -4, y: 29}
+        - {x: -7, y: 26}
+        - {x: -14, y: 23}
+        - {x: -20, y: 29}
+        - {x: -23, y: 40}
+        - {x: -36, y: 40}
+        - {x: -39, y: 37}
+        - {x: -39, y: 3}
+        - {x: -23, y: -19}
+        - {x: -10, y: -35}
+        - {x: -3, y: -36}
+        - {x: 6, y: -36}
+        - {x: 20, y: -23}
+        - {x: 38, y: 1}
+        - {x: 39, y: 9}
+      - - {x: -6, y: 14}
+        - {x: -10, y: 14}
+        - {x: -8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -4, y: 11}
+        - {x: -3, y: 12}
+      - - {x: 4, y: 11}
+        - {x: 9, y: 16}
+        - {x: 8, y: 16}
+        - {x: 10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 12}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 379
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 38, y: 40}
+        - {x: 22, y: 40}
+        - {x: 16, y: 25}
+        - {x: 7, y: 27}
+        - {x: -4, y: 29}
+        - {x: -7, y: 26}
+        - {x: -13, y: 23}
+        - {x: -26, y: 40}
+        - {x: -30, y: 40}
+        - {x: -30, y: 37}
+        - {x: -32, y: 40}
+        - {x: -36, y: 40}
+        - {x: -38, y: 33}
+        - {x: -38, y: 1}
+        - {x: -10, y: -35}
+        - {x: -6, y: -36}
+        - {x: 6, y: -36}
+        - {x: 20, y: -23}
+        - {x: 38, y: 0}
+      - - {x: -6, y: 14}
+        - {x: -10, y: 14}
+        - {x: -4, y: 11}
+        - {x: -3, y: 12}
+      - - {x: 4, y: 11}
+        - {x: 10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 12}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 379
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 38, y: 32}
+        - {x: 35, y: 36}
+        - {x: 26, y: 36}
+        - {x: 15, y: 23}
+        - {x: 6, y: 27}
+        - {x: 3, y: 28}
+        - {x: -3, y: 29}
+        - {x: -9, y: 23}
+        - {x: -24, y: 36}
+        - {x: -34, y: 36}
+        - {x: -38, y: 31}
+        - {x: -38, y: 2}
+        - {x: -23, y: -19}
+        - {x: -10, y: -35}
+        - {x: -3, y: -36}
+        - {x: 6, y: -36}
+        - {x: 20, y: -23}
+        - {x: 38, y: 1}
+      - - {x: -6, y: 14}
+        - {x: -10, y: 14}
+        - {x: -4, y: 11}
+        - {x: -3, y: 12}
+      - - {x: 4, y: 11}
+        - {x: 10, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 12}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: 36}
+        - {x: 30, y: 38}
+        - {x: 27, y: 37}
+        - {x: 3, y: 24}
+        - {x: -6, y: 21}
+        - {x: -9, y: 15}
+        - {x: -25, y: 13}
+        - {x: -26, y: 37}
+        - {x: -29, y: 38}
+        - {x: -32, y: 38}
+        - {x: -35, y: 36}
+        - {x: -37, y: 24}
+        - {x: -37, y: -12}
+        - {x: -19, y: -35}
+        - {x: 15, y: -35}
+        - {x: 31, y: -25}
+        - {x: 37, y: -7}
+        - {x: 37, y: 19}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: 36}
+        - {x: 30, y: 38}
+        - {x: 27, y: 37}
+        - {x: 25, y: 15}
+        - {x: 7, y: 26}
+        - {x: -5, y: 25}
+        - {x: -26, y: 16}
+        - {x: -27, y: 38}
+        - {x: -34, y: 38}
+        - {x: -36, y: 37}
+        - {x: -37, y: 18}
+        - {x: -37, y: -7}
+        - {x: -29, y: -22}
+        - {x: -15, y: -35}
+        - {x: 15, y: -35}
+        - {x: 32, y: -20}
+        - {x: 37, y: -8}
+        - {x: 37, y: 7}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: 37}
+        - {x: 30, y: 39}
+        - {x: 27, y: 38}
+        - {x: 23, y: 19}
+        - {x: 5, y: 35}
+        - {x: -21, y: 24}
+        - {x: -26, y: 38}
+        - {x: -29, y: 39}
+        - {x: -32, y: 39}
+        - {x: -35, y: 37}
+        - {x: -37, y: 14}
+        - {x: -37, y: -7}
+        - {x: -29, y: -22}
+        - {x: -14, y: -35}
+        - {x: 12, y: -35}
+        - {x: 31, y: -24}
+        - {x: 37, y: -8}
+        - {x: 37, y: 7}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 59
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: 37}
+        - {x: 30, y: 39}
+        - {x: 27, y: 38}
+        - {x: 9, y: 20}
+        - {x: 6, y: 28}
+        - {x: 1, y: 31}
+        - {x: -2, y: 32}
+        - {x: -12, y: 25}
+        - {x: -21, y: 39}
+        - {x: -34, y: 39}
+        - {x: -37, y: 27}
+        - {x: -37, y: -5}
+        - {x: -31, y: -23}
+        - {x: -11, y: -35}
+        - {x: 14, y: -35}
+        - {x: 32, y: -20}
+        - {x: 37, y: -8}
+        - {x: 37, y: 10}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 299
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 34, y: 37}
+        - {x: 30, y: 39}
+        - {x: 27, y: 38}
+        - {x: 26, y: 13}
+        - {x: 22, y: 19}
+        - {x: 19, y: 19}
+        - {x: 14, y: 23}
+        - {x: -3, y: 35}
+        - {x: -7, y: 23}
+        - {x: -23, y: 20}
+        - {x: -24, y: 17}
+        - {x: -26, y: 38}
+        - {x: -29, y: 39}
+        - {x: -32, y: 39}
+        - {x: -35, y: 37}
+        - {x: -37, y: 14}
+        - {x: -37, y: -7}
+        - {x: -29, y: -22}
+        - {x: -15, y: -35}
+        - {x: 15, y: -35}
+        - {x: 32, y: -20}
+        - {x: 37, y: -8}
+        - {x: 37, y: 7}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 299
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 37, y: 7}
+        - {x: 34, y: 36}
+        - {x: 30, y: 38}
+        - {x: 27, y: 37}
+        - {x: 25, y: 15}
+        - {x: -3, y: 27}
+        - {x: -20, y: 18}
+        - {x: -26, y: 37}
+        - {x: -29, y: 38}
+        - {x: -32, y: 38}
+        - {x: -34, y: 36}
+        - {x: -37, y: 17}
+        - {x: -37, y: -4}
+        - {x: -30, y: -23}
+        - {x: -14, y: -35}
+        - {x: 9, y: -35}
+        - {x: 14, y: -34}
+        - {x: 29, y: -22}
+        - {x: 37, y: -7}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27, y: 8.5}
+        - {x: 23, y: 16.5}
+        - {x: 10, y: 26.5}
+        - {x: -11, y: 26.5}
+        - {x: -27, y: 14.5}
+        - {x: -27, y: -11.5}
+        - {x: -15, y: -26.5}
+        - {x: -12, y: -27.5}
+        - {x: 9, y: -27.5}
+        - {x: 15, y: -26.5}
+        - {x: 22, y: -18.5}
+        - {x: 27, y: -8.5}
+      - - {x: -10, y: -16.5}
+        - {x: -18, y: -4.5}
+        - {x: -13, y: 13.5}
+        - {x: 14, y: 12.5}
+        - {x: 16, y: -10.5}
+        - {x: 4, y: -18.5}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 25.5}
+        - {x: -22, y: 25.5}
+        - {x: -25, y: 12.5}
+        - {x: -25, y: -17.5}
+        - {x: -19, y: -23.5}
+        - {x: -8, y: -25.5}
+        - {x: 14, y: -25.5}
+        - {x: 23, y: -19.5}
+        - {x: 25, y: -11.5}
+        - {x: 25, y: 13.5}
+      - - {x: -10, y: -16.5}
+        - {x: -18, y: -4.5}
+        - {x: -13, y: 13.5}
+        - {x: 14, y: 12.5}
+        - {x: 16, y: -10.5}
+        - {x: 4, y: -18.5}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: 29.5}
+        - {x: -15, y: 29.5}
+        - {x: -29, y: 19.5}
+        - {x: -30, y: 14.5}
+        - {x: -30, y: -17.5}
+        - {x: -20, y: -29.5}
+        - {x: 17, y: -29.5}
+        - {x: 29, y: -22.5}
+        - {x: 30, y: -17.5}
+        - {x: 30, y: 16.5}
+      - - {x: -22, y: -10.5}
+        - {x: -24, y: 7.5}
+        - {x: -15, y: 19.5}
+        - {x: 5, y: 23.5}
+        - {x: 15, y: 19.5}
+        - {x: 24, y: 4.5}
+        - {x: 24, y: -4.5}
+        - {x: 16, y: -19.5}
+        - {x: 7, y: -24.5}
+        - {x: -3, y: -24.5}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 239
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 16}
+        - {x: 19, y: 30}
+        - {x: -21, y: 30}
+        - {x: -30, y: 16}
+        - {x: -30, y: -14}
+        - {x: -26, y: -20}
+        - {x: -13, y: -30}
+        - {x: 12, y: -30}
+        - {x: 20, y: -26}
+        - {x: 28, y: -21}
+        - {x: 30, y: -15}
+      - - {x: -18, y: -15}
+        - {x: -23, y: -6}
+        - {x: -15, y: 18}
+        - {x: 1, y: 23}
+        - {x: 23, y: 6}
+        - {x: 20, y: -12}
+        - {x: 6, y: -22}
+        - {x: -4, y: -22}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 239
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: 16}
+        - {x: 19, y: 30}
+        - {x: -21, y: 30}
+        - {x: -30, y: 16}
+        - {x: -30, y: -14}
+        - {x: -26, y: -20}
+        - {x: -13, y: -30}
+        - {x: 12, y: -30}
+        - {x: 20, y: -26}
+        - {x: 28, y: -21}
+        - {x: 30, y: -15}
+      - - {x: -19, y: -11}
+        - {x: -21, y: 5}
+        - {x: -19, y: 11}
+        - {x: -5, y: 21}
+        - {x: 11, y: 19}
+        - {x: 21, y: 5}
+        - {x: 21, y: -3}
+        - {x: 18, y: -11}
+        - {x: 11, y: -18}
+        - {x: -4, y: -21}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 179
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 28, y: 15}
+        - {x: 16, y: 27}
+        - {x: 10, y: 30}
+        - {x: -7, y: 30}
+        - {x: -12, y: 29}
+        - {x: -24, y: 19}
+        - {x: -30, y: 6}
+        - {x: -30, y: -7}
+        - {x: -29, y: -12}
+        - {x: -25, y: -19}
+        - {x: -12, y: -30}
+        - {x: 13, y: -30}
+        - {x: 30, y: -16}
+        - {x: 30, y: 11}
+      - - {x: -15, y: -14}
+        - {x: -14, y: 15}
+        - {x: 10, y: 17}
+        - {x: 19, y: 9}
+        - {x: 6, y: -20}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spaceships_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 119
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 28}
+        - {x: -10, y: 28}
+        - {x: -20, y: 26}
+        - {x: -28, y: 20}
+        - {x: -28, y: -18}
+        - {x: -25, y: -28}
+        - {x: 24, y: -28}
+        - {x: 29, y: -9}
+        - {x: 29, y: 17}
+        - {x: 18, y: 24}
+      - - {x: -10, y: -16}
+        - {x: -18, y: -4}
+        - {x: -16, y: 10}
+        - {x: -4, y: 18}
+        - {x: 14, y: 13}
+        - {x: 13, y: -14}
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
